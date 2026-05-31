@@ -1,0 +1,28 @@
+Tact Word Families Data Notice
+
+Code license:
+  The generator code and repository documentation are licensed under the MIT
+  License. See LICENSE.
+
+Generated data:
+  en_US/variants.tsv is a generated data artifact derived from a frequency
+  lexicon imported from the Leipzig Corpora Collection English news corpus.
+
+Source attribution:
+  Leipzig Corpora Collection, English news corpus eng_news_2025_100K
+  Natural Language Processing Group, Leipzig University
+  Source URL:
+    https://downloads.wortschatz-leipzig.de/corpora/eng_news_2025_100K.tar.gz
+  Terms of usage:
+    https://wortschatz.uni-leipzig.de/en/usage
+  Source license:
+    Creative Commons Attribution (CC BY)
+
+Changes:
+  The source frequency list was normalized, filtered, and used as lexicon
+  evidence for generated English word-family variant relationships. The
+  resulting artifact is not a copy of the original corpus text.
+
+Redistribution:
+  Preserve this attribution, identify the CC BY source license for the data,
+  and indicate that the data has been transformed.
